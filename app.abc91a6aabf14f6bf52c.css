@@ -4688,7 +4688,7 @@ textarea.ant-input {
   position: relative;
   margin: 12px 0;
   padding: 2px;
-  padding-left: 10px; }
+  padding-left: 6px; }
 
 /* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
 /* stylelint-disable no-duplicate-selectors */
@@ -4959,7 +4959,7 @@ textarea.ant-input {
 .null-graph {
   position: relative;
   margin: 12px 0;
-  padding-left: 10px; }
+  padding-left: 6px; }
 
 .json-editor-object-tag {
   position: absolute;
@@ -4990,7 +4990,7 @@ textarea.ant-input {
 .string-graph {
   position: relative;
   margin: 12px 0;
-  padding-left: 12px; }
+  padding-left: 6px; }
   .string-graph input {
     background: #50585f;
     border: none;
@@ -5025,7 +5025,7 @@ textarea.ant-input {
 .number-graph {
   position: relative;
   margin: 12px 0;
-  padding-left: 12px; }
+  padding-left: 6px; }
   .number-graph input {
     background: #5f5850;
     border: none;
