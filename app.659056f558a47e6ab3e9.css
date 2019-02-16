@@ -5040,7 +5040,7 @@ textarea.ant-input {
   .json-editor .drag-area {
     position: absolute;
     top: 0;
-    right: 400px;
+    right: 320px;
     bottom: 0;
     left: 0; }
     .json-editor .drag-area .box-area {
@@ -5061,7 +5061,7 @@ textarea.ant-input {
   .json-editor .output-area {
     position: absolute;
     top: 0;
-    width: 400px;
+    width: 320px;
     bottom: 0;
     right: 0;
     border-left: 1px solid #3d4347; }
